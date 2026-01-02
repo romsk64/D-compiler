@@ -1,7 +1,7 @@
 <div align="center">
 
 ![dlang logo](https://dlang.org/images/dlogo.png)
-# DMD
+# EPLC
 [![GitHub tag](https://img.shields.io/github/tag-date/dlang/dmd.svg?maxAge=86400&style=flat)](https://github.com/dlang/dmd/releases)
 [![Code coverage](https://img.shields.io/codecov/c/github/dlang/dmd.svg?maxAge=86400&style=flat)](https://codecov.io/gh/dlang/dmd)
 [![license](https://img.shields.io/github/license/dlang/dmd.svg?style=flat)](https://github.com/dlang/dmd/blob/master/LICENSE.txt)
@@ -13,7 +13,7 @@
 </div>
 
 ---
-**DMD** is the reference compiler for the D programming language.
+**EPLC** is the reference compiler for the Easy programming language.
 
 Releases, language specification and other resources can be found on the [homepage](https://dlang.org).
 Please refer to the guidelines for [bug reports](CONTRIBUTING.md#reporting-bugs) to
